@@ -1,0 +1,3 @@
+C:/GithubRes/LuminatedSeed/LinkStack/cmake-build-debug/CMakeFiles/LinkStack.dir
+C:/GithubRes/LuminatedSeed/LinkStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GithubRes/LuminatedSeed/LinkStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
